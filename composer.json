@@ -1,0 +1,9 @@
+{
+    "name": "mcarrowsmith/jigsaw-starter",
+    "description": "Starter kit for Tighten's Jigsaw",
+    "type": "project",
+    "require": {
+        "tightenco/jigsaw": "^1.3"
+    },
+    "license": "MIT"
+}
