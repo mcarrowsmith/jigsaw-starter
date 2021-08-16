@@ -5,9 +5,9 @@ mix.disableSuccessNotifications();
 mix.setPublicPath('source/assets');
 mix.setResourceRoot('/assets');
 
-mix.copy([
-    'resources/images/'
-], 'source/assets/images');
+// mix.copy([
+//     'resources/images/'
+// ], 'source/assets/images');
 
 mix.jigsaw()
     .js('resources/js/app.js', 'js')
